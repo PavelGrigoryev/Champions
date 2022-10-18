@@ -1,5 +1,2 @@
-2022-10-18 16:50:42 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
-2022-10-18 16:50:42 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
-2022-10-18 16:51:02 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
-2022-10-18 16:52:59 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
-2022-10-18 16:55:07 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2022-10-18 18:03:00 DEBUG ConsumerServiceImpl:23 - NODE: Text message is received
+2022-10-18 18:04:06 DEBUG ConsumerServiceImpl:23 - NODE: Text message is received
