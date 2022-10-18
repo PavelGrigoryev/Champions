@@ -7,8 +7,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>by.pavel</groupId>
-    <artifactId>dispatcher</artifactId>
-    <name>Archetype - dispatcher</name>
+    <artifactId>node</artifactId>
+    <name>Archetype - node</name>
     <url>https://maven.apache.org</url>
 
     <dependencies>

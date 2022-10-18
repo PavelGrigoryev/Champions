@@ -8,11 +8,13 @@
     <modules>
         <module>dispatcher</module>
         <module>common-rabbitmq</module>
+        <module>node</module>
     </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+        <telegrambor.starter.version>6.1.0</telegrambor.starter.version>
     </properties>
 
     <name>Archetype - Champions</name>
